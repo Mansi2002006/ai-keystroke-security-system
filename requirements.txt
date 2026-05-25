@@ -1,0 +1,9 @@
+pynput
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+opencv-python
+Pillow
+Flask

@@ -1,0 +1,21 @@
+{
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "train_samples": 42,
+    "test_samples": 18,
+    "best_model": "Extra Trees",
+    "model_comparison": {
+        "Random Forest": 0.8333,
+        "Extra Trees": 0.8333,
+        "SVM": 0.8333
+    },
+    "cross_validation_accuracy": {
+        "Random Forest": 0.7833,
+        "Extra Trees": 0.8333,
+        "SVM": 0.8
+    },
+    "feature_count": 25,
+    "decision_threshold": 0.5
+}
